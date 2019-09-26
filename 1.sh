@@ -1,0 +1,1 @@
+adb shell monkey -p com.youku.phone --throttle 100 --pct-touch 50 --pct-motion 50 -v -v 1000
